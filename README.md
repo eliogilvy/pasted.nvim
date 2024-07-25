@@ -3,6 +3,7 @@
 ## Setup:
 
 ```lua
+--- Lazy
 return {
     dir = "C:\\Users\\Eli\\coding_projects\\pasted.nvim",
     keys = {
